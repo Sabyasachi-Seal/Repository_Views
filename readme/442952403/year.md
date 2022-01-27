@@ -164,15 +164,13 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/1/27 12:57 PM UTC</i></small>
+<small><i>Last updated on 2022/1/27 1:13 PM UTC</i></small>
 
-## ✂️Copy and 📋 Paste
 ### SVG Badge
 [![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/svg/442952403/badge.svg)](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/442952403/week.md)
 ```readme
 [![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/svg/442952403/badge.svg)](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/442952403/week.md)
 ```
-### Header
 # Sabyasachi-Seal [<img alt="Image of Repository_Views" src="https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/442952403/small/year.png" height="20">](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/442952403/year.md)
 ```readme
 # Sabyasachi-Seal [<img alt="Image of Repository_Views" src="https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/442952403/small/year.png" height="20">](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/442952403/year.md)
@@ -186,4 +184,3 @@
 - [fs-extra](https://www.npmjs.com/package/fs-extra) - Creating directories and files.
 - [simple-git](https://www.npmjs.com/package/simple-git) - Handling Git commands.
 - [node-chart-exec](https://www.npmjs.com/package/node-chart-exec) - Generate graphs.
-## 📄 License
