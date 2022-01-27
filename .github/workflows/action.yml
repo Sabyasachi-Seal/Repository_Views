@@ -16,6 +16,6 @@ jobs:
       - uses: actions/setup-node@v2.1.5
         with:
           node-version: 14.17.0
-      - uses: Sabyasachi-Seal/github-profile-views-counter-action@StableV4
+      - uses: Sabyasachi-Seal/github-profile-views-counter-action@StableV5
         env:
           INSIGHTS_TOKEN: ${{ secrets.INSIGHTS_TOKEN }}
