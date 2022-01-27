@@ -307,7 +307,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 	</tr>
 </table>
 
-<div align="center"><small><i>Last updated on 2022/1/27 12:28 PM UTC</i></small></div>
+<div align="center"><small><i>Last updated on 2022/1/27 12:48 PM UTC</i></small></div>
 
 <hr>
 
@@ -326,3 +326,4 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 - [fs-extra](https://www.npmjs.com/package/fs-extra) - Creating directories and files.
 - [simple-git](https://www.npmjs.com/package/simple-git) - Handling Git commands.
 - [node-chart-exec](https://www.npmjs.com/package/node-chart-exec) - Generate graphs.
+## 📄 License
