@@ -1,7 +1,7 @@
 name: Sabyasachi's Automated Workflow
 on:
-  push:
-    branch: [ master ]
+  # push:
+  #   branch: [ master ]
   schedule:
     - cron: '0 */1 * * *'
   workflow_dispatch:
