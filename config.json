@@ -1,8 +1,1 @@
-{
-  "devMode": "false",
-  "advancedMode": "false",
-  "language": "en-US",
-  "repository": [
-    "repository-name"
-  ]
-}
+{"devMode": "false", "advancedMode": "false", "language": "en-US", "repository": ["AmazonPriceDropAlert", "AnalogClock", "Attendance-Tracker", "CodingInC", "commclassroomOP", "DiabetesPredictor", "FaceMaskDetector", "GatsbyCloud_Demo", "github-profile-views-counter-action", "JSON_IMS", "PythonOOP", "Random-Password-Generator", "Repository_View_Counter", "reviewing-a-pull-request", "Sabyasachi-Seal", "SATechnicalOnboarding", "Summer-Olympics-Data-Analysis", "Tic-Tac-Toe-AI-Visualized"]}

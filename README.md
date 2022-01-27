@@ -1,61 +1,319 @@
-# 🚀 GitHub Profile Views Counter [<img alt="Image of my-profile-view-counter" src="https://github.com/gayanvoice/my-profile-view-counter/blob/master/graph/372372861/small/week.png" height="20">](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/372372861/week.md)
+## [🚀 GitHub Profile Views Counter](https://github.com/Sabyasachi-Seal/Repository_View_Counter)
+**GitHub Profile Views Counter** is aproject that powered entirely by  `GitHub Actions` to fetch and store insights of repositories.
+It uses `GitHub API` to fetch the insight data of repositories and commits changes into a separate repository.
 
-[![Image of my-profile-view-counter](https://github.com/gayanvoice/my-profile-view-counter/blob/master/svg/372372861/badge.svg)](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/372372861/week.md)
+<hr>
 
- 
-Many GitHub page views counters are not stable as it seems. Any service disruptions or simply removal of these services can lose your profile views. Use this GitHub Action to record changes. It generates badges, charts, and tables for each repository and a badge for total views for your profile.
+<table border="1" cellspacing="0" cellpadding="0" width=200% height=200% align="center">
+	<tr>
+		<th>
+			Repository
+		</th>
+		<th>
+			Last Updated
+		</th>
+		<th>
+			Unique
+		</th>
+		<th>
+			Views
+		</th>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Sabyasachi-Seal/Repository_View_Counter/tree/master/readme/445373339/year.md">
+				AmazonPriceDropAlert
+			</a>
+		</td>
+		<td>
+			2022/1/25 3:09 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_View_Counter/raw/master/graph/445373339/small/year.png" height="20"> 3
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Sabyasachi-Seal/Repository_View_Counter/tree/master/readme/444277983/year.md">
+				AnalogClock
+			</a>
+		</td>
+		<td>
+			2022/1/25 3:09 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_View_Counter/raw/master/graph/444277983/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Sabyasachi-Seal/Repository_View_Counter/tree/master/readme/403671500/year.md">
+				Attendance-Tracker
+			</a>
+		</td>
+		<td>
+			2022/1/25 12:00 AM UTC
+		</td>
+		<td>
+			9
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_View_Counter/raw/master/graph/403671500/small/year.png" height="20"> 49
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Sabyasachi-Seal/Repository_View_Counter/tree/master/readme/443268905/year.md">
+				CodingInC
+			</a>
+		</td>
+		<td>
+			2022/1/25 3:10 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_View_Counter/raw/master/graph/443268905/small/year.png" height="20"> 1
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Sabyasachi-Seal/Repository_View_Counter/tree/master/readme/429010160/year.md">
+				commclassroomOP
+			</a>
+		</td>
+		<td>
+			2022/1/25 3:10 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_View_Counter/raw/master/graph/429010160/small/year.png" height="20"> 2
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Sabyasachi-Seal/Repository_View_Counter/tree/master/readme/443469139/year.md">
+				demo
+			</a>
+		</td>
+		<td>
+			2022/1/25 3:10 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_View_Counter/raw/master/graph/443469139/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Sabyasachi-Seal/Repository_View_Counter/tree/master/readme/442779945/year.md">
+				DiabetesPredictor
+			</a>
+		</td>
+		<td>
+			2022/1/25 3:10 AM UTC
+		</td>
+		<td>
+			45
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_View_Counter/raw/master/graph/442779945/small/year.png" height="20"> 198
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Sabyasachi-Seal/Repository_View_Counter/tree/master/readme/450329332/year.md">
+				FaceMaskDetector
+			</a>
+		</td>
+		<td>
+			2022/1/25 12:00 AM UTC
+		</td>
+		<td>
+			3
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_View_Counter/raw/master/graph/450329332/small/year.png" height="20"> 12
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Sabyasachi-Seal/Repository_View_Counter/tree/master/readme/402411478/year.md">
+				JSON_IMS
+			</a>
+		</td>
+		<td>
+			2022/1/25 12:00 AM UTC
+		</td>
+		<td>
+			5
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_View_Counter/raw/master/graph/402411478/small/year.png" height="20"> 23
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Sabyasachi-Seal/Repository_View_Counter/tree/master/readme/443359438/year.md">
+				PythonOOP
+			</a>
+		</td>
+		<td>
+			2022/1/25 3:11 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_View_Counter/raw/master/graph/443359438/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Sabyasachi-Seal/Repository_View_Counter/tree/master/readme/443374992/year.md">
+				Random-Password-Generator
+			</a>
+		</td>
+		<td>
+			2022/1/25 3:11 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_View_Counter/raw/master/graph/443374992/small/year.png" height="20"> 1
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Sabyasachi-Seal/Repository_View_Counter/tree/master/readme/452372847/year.md">
+				Repository_View_Counter
+			</a>
+		</td>
+		<td>
+			2022/1/25 3:11 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_View_Counter/raw/master/graph/452372847/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Sabyasachi-Seal/Repository_View_Counter/tree/master/readme/448198858/year.md">
+				reviewing-a-pull-request
+			</a>
+		</td>
+		<td>
+			2022/1/25 3:11 AM UTC
+		</td>
+		<td>
+			3
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_View_Counter/raw/master/graph/448198858/small/year.png" height="20"> 36
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Sabyasachi-Seal/Repository_View_Counter/tree/master/readme/442952403/year.md">
+				Sabyasachi-Seal
+			</a>
+		</td>
+		<td>
+			2022/1/25 12:00 AM UTC
+		</td>
+		<td>
+			7
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_View_Counter/raw/master/graph/442952403/small/year.png" height="20"> 115
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Sabyasachi-Seal/Repository_View_Counter/tree/master/readme/448180429/year.md">
+				SATechnicalOnboarding
+			</a>
+		</td>
+		<td>
+			2022/1/25 3:11 AM UTC
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_View_Counter/raw/master/graph/448180429/small/year.png" height="20"> 32
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Sabyasachi-Seal/Repository_View_Counter/tree/master/readme/405350258/year.md">
+				Summer-Olympics-Data-Analysis
+			</a>
+		</td>
+		<td>
+			2022/1/25 12:00 AM UTC
+		</td>
+		<td>
+			5
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_View_Counter/raw/master/graph/405350258/small/year.png" height="20"> 10
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Sabyasachi-Seal/Repository_View_Counter/tree/master/readme/443476111/year.md">
+				Tic-Tac-Toe-AI-Visualized
+			</a>
+		</td>
+		<td>
+			2022/1/25 3:12 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_View_Counter/raw/master/graph/443476111/small/year.png" height="20"> 0
+		</td>
+	</tr>
+</table>
 
-## ▶️ Watch
-[![How to Setup GitHub Profile Views Counter for your GitHub profile](https://img.youtube.com/vi/K6FYiP_XRuU/0.jpg)](https://www.youtube.com/watch?v=K6FYiP_XRuU)
+<div align="center"><small><i>Last updated on 2022/1/27 3:22 AM UTC</i></small></div>
 
-## Why do you need 🚀 GitHub Profile Views Counter?
-The main problem of using external services is what you do when they cut off their services? You will see a broken URL of the SVG you used to see profile views, and the next thing is you already lost thousands of profile views.
+<hr>
 
-But this GitHub Profile Views Counter is different from others. It’s a public repository in your profile, and it stores all the data and SVG files. So you don’t lose anything, and it updates the page views every 6 hours. It fetches insights data of your repository from GitHub API. It records the number of unique visitors and also page views.
+### Total Views Badge
+[![Image of https://github.com/Sabyasachi-Seal/Repository_View_Counter](https://github.com/Sabyasachi-Seal/Repository_View_Counter/blob/master/svg/profile/badge.svg)](https://github.com/Sabyasachi-Seal/Repository_View_Counter)
 
-## Features
-**Charts —** The action generates charts for the week, month, and year. The below chart is for the week for a repository. Go to gayanvoice/my-profile-view-counter to see how it works.
+```readme
+[![Image of https://github.com/Sabyasachi-Seal/Repository_View_Counter](https://github.com/Sabyasachi-Seal/Repository_View_Counter/blob/master/svg/profile/badge.svg)](https://github.com/Sabyasachi-Seal/Repository_View_Counter)
+```
+<hr>
 
-**Tables —** The action generates charts for the week, month, and year.
-## Setup
-**1 —** 🚀 Go to gayanvoice/github-profile-views-counter and click on **Use this template** button to create a new repository
+## ⛔ DO NOT
+- Do not commit any changes to `./cache` directory. This feature helps to integrity of the records for visitors.
+- The app will automatically stop measuring insights until you revoke those commits.
 
-By using a template you don’t need to create the files from scratch, and all you need is to change the configuration.
+<hr>
 
-![GitHub Profile Views Counter - Click on Use this template button to create a new repository](https://miro.medium.com/max/600/1*wvbb87wOd1wCHKJh06vjPA.png)
+## 📦 Third party
 
-
-**2 —** ⚡️ Enter a **repository name** and select repository type to **public repository** and click on **Create repository from template** button
-
-You can give any name for the repository. You need to select repository type to public. Because GitHub provides an unlimited number of action minutes for public repositories.
-
-If you choose private, the free usage will limit to 2000 minutes per month. Go to GitHub Pricing page for more pricing plans.
-
-![GitHub Profile Views Counter - Click on create repository from template button to create the repository](https://miro.medium.com/max/600/1*hHdIM_fVnkdVdQGrbL1jRA.png)
-
-After you click on **Create repository from template** button, it will take some time to create the repository.
-
-**3 —** 🔒 Create a new personal access token with **repo** and **workflow** options
-
-Go to Personal Access Tokens and click on Generate new token button. Give it any name and select repo and workflow options and click on Generate token button. ✂️ Copy the token.
-
-![GitHub Profile Views Counter - create a new personal access token with repo and workflow options](https://miro.medium.com/max/700/1*YMft8U6IYTpBg7C5cASDUA.png)
-
-**4 —** 🔑 Go to your profile views counter repository and go to **Settings**, and select **Secrets** option from left side bar. Click on **New repository secret** button and enter **name** as **INSIGHTS_TOKEN** and 📋 paste the **personal access token** under **value**. Click on **Add secret** button.
-
-![GitHub Profile Views Counter - add repository secret by using repository secrets](https://miro.medium.com/max/700/1*jLtkxQNj2qrGcc4bLIvw3A.png)
-
-**5 —** 📄 Go to your profile views counter repository. Go to **config.json** and click on edit button. Add repository names.
-
-![GitHub Profile Views Counter - edit config.json file to add repository names](https://miro.medium.com/max/700/1*35wJBw75Fp5D_5t-fhaT_g.png)
-
-**6 —** Go to your profile views counter repository and click on Actions tab. Select the workflow and click on **Run workflow** button.
-
-![GitHub Profile Views Counter - click on run workflow button](https://miro.medium.com/max/700/1*hKkJ9EXlK14b3H3SeCNk4Q.png)
-
-It will take few minutes depends on number of repositories you have entered to the workflow. It will generate total views badge, repository badges, and markdown files.
-
-## 📄 License
-- Repository: [gayanvoice/github-profile-views-counter](https://github.com/gayanvoice/github-profile-views-counter)
-- Source - [gayanvoice/github-insights](https://github.com/gayanvoice/github-insights)
-- Code: [MIT](./LICENSE) © [Gayan Kuruppu](https://github.com/gayanvoice)
+- [@octokit/rest](https://www.npmjs.com/package/@octokit/rest) - Send REST API requests to GitHub.
+- [fs-extra](https://www.npmjs.com/package/fs-extra) - Creating directories and files.
+- [simple-git](https://www.npmjs.com/package/simple-git) - Handling Git commands.
+- [node-chart-exec](https://www.npmjs.com/package/node-chart-exec) - Generate graphs.
