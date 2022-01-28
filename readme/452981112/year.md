@@ -1,7 +1,7 @@
 ## [🔙 Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views)
 
-### :octocat: [CodingInC-CPP](https://github.com/Sabyasachi-Seal/CodingInC-CPP)
-![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/443268905/large/year.png)
+### :octocat: [DSA-Bootcamp-Java](https://github.com/Sabyasachi-Seal/DSA-Bootcamp-Java)
+![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/452981112/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2022/1/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>19</code>
+			<code>21</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,16 +164,16 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/1/28 12:55 PM UTC</i></small>
+<small><i>Last updated on 2022/1/28 12:56 PM UTC</i></small>
 
 ### SVG Badge
-[![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/svg/443268905/badge.svg)](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/443268905/week.md)
+[![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/svg/452981112/badge.svg)](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/452981112/week.md)
 ```readme
-[![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/svg/443268905/badge.svg)](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/443268905/week.md)
+[![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/svg/452981112/badge.svg)](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/452981112/week.md)
 ```
-# CodingInC-CPP [<img alt="Image of Repository_Views" src="https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/443268905/small/year.png" height="20">](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/443268905/year.md)
+# DSA-Bootcamp-Java [<img alt="Image of Repository_Views" src="https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/452981112/small/year.png" height="20">](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/452981112/year.md)
 ```readme
-# CodingInC-CPP [<img alt="Image of Repository_Views" src="https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/443268905/small/year.png" height="20">](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/443268905/year.md)
+# DSA-Bootcamp-Java [<img alt="Image of Repository_Views" src="https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/452981112/small/year.png" height="20">](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/452981112/year.md)
 ```
 ## ⛔ DO NOT
 - Do not commit any changes to `./cache` directory. This feature helps to integrity of the records for visitors.

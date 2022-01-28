@@ -83,6 +83,38 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/452747713/year.md">
+				CodingInJava
+			</a>
+		</td>
+		<td>
+			2022/1/25 12:55 PM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/452747713/small/year.png" height="20"> 22
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/452968149/year.md">
+				CodingInPython
+			</a>
+		</td>
+		<td>
+			2022/1/25 12:55 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/452968149/small/year.png" height="20"> 17
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/429010160/year.md">
 				commclassroomOP
 			</a>
@@ -111,6 +143,22 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/442779945/small/year.png" height="20"> 242
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/452981112/year.md">
+				DSA-Bootcamp-Java
+			</a>
+		</td>
+		<td>
+			2022/1/25 12:56 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/452981112/small/year.png" height="20"> 21
 		</td>
 	</tr>
 	<tr>
@@ -211,18 +259,18 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/452372847/year.md">
-				Repository_View_Counter
+			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/452585553/year.md">
+				Repository_Views
 			</a>
 		</td>
 		<td>
-			2022/1/26 7:48 AM UTC
+			2022/1/25 12:57 PM UTC
 		</td>
 		<td>
-			0
+			1
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/452372847/small/year.png" height="20"> 0
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/452585553/small/year.png" height="20"> 7
 		</td>
 	</tr>
 	<tr>
@@ -307,7 +355,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 	</tr>
 </table>
 
-<div align="center"><small><i>Last updated on 2022/1/28 12:14 PM UTC</i></small></div>
+<div align="center"><small><i>Last updated on 2022/1/28 12:58 PM UTC</i></small></div>
 
 <hr>
 

@@ -1,7 +1,7 @@
 ## [🔙 Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views)
 
-### :octocat: [CodingInC-CPP](https://github.com/Sabyasachi-Seal/CodingInC-CPP)
-![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/443268905/large/year.png)
+### :octocat: [CodingInJava](https://github.com/Sabyasachi-Seal/CodingInJava)
+![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/452747713/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -26,7 +26,7 @@
 			<code>2</code>
 		</td>
 		<td>
-			<code>19</code>
+			<code>22</code>
 		</td>
 	</tr>
 	<tr>
@@ -167,13 +167,13 @@
 <small><i>Last updated on 2022/1/28 12:55 PM UTC</i></small>
 
 ### SVG Badge
-[![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/svg/443268905/badge.svg)](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/443268905/week.md)
+[![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/svg/452747713/badge.svg)](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/452747713/week.md)
 ```readme
-[![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/svg/443268905/badge.svg)](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/443268905/week.md)
+[![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/svg/452747713/badge.svg)](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/452747713/week.md)
 ```
-# CodingInC-CPP [<img alt="Image of Repository_Views" src="https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/443268905/small/year.png" height="20">](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/443268905/year.md)
+# CodingInJava [<img alt="Image of Repository_Views" src="https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/452747713/small/year.png" height="20">](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/452747713/year.md)
 ```readme
-# CodingInC-CPP [<img alt="Image of Repository_Views" src="https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/443268905/small/year.png" height="20">](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/443268905/year.md)
+# CodingInJava [<img alt="Image of Repository_Views" src="https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/452747713/small/year.png" height="20">](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/452747713/year.md)
 ```
 ## ⛔ DO NOT
 - Do not commit any changes to `./cache` directory. This feature helps to integrity of the records for visitors.
