@@ -68,7 +68,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 	<tr>
 		<td>
 			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/443268905/year.md">
-				CodingInC
+				CodingInC-CPP
 			</a>
 		</td>
 		<td>
@@ -307,7 +307,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 	</tr>
 </table>
 
-<div align="center"><small><i>Last updated on 2022/1/28 7:10 AM UTC</i></small></div>
+<div align="center"><small><i>Last updated on 2022/1/28 8:12 AM UTC</i></small></div>
 
 <hr>
 
