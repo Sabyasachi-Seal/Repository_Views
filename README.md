@@ -337,9 +337,25 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/405350258/small/year.png" height="20"> 14
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/443476111/year.md">
+				Tic-Tac-Toe-AI-Visualized
+			</a>
+		</td>
+		<td>
+			2022/2/3 12:31 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/443476111/small/year.png" height="20"> 0
+		</td>
+	</tr>
 </table>
 
-<div align="center"><small><i>Last updated on 2022/2/5 10:12 PM UTC</i></small></div>
+<div align="center"><small><i>Last updated on 2022/2/5 11:15 PM UTC</i></small></div>
 
 <hr>
 
