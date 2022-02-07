@@ -1,6 +1,6 @@
 import json
 import requests
-
+import os
 
 username = "Sabyasachi-Seal"
 request = requests.get('https://api.github.com/users/'+username+'/repos')
@@ -23,3 +23,7 @@ jsondump = json.dumps(data)
 file = open('Repository_Views/config.json', 'w')
 file.write(jsondump)
 file.close()
+
+os.system('git add .')
+os.system('git commit -m "update"')
+os.system('git push -u origin main')
