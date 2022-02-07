@@ -27,5 +27,5 @@ file.close()
 print("Updated Repository List")
 
 os.system('git add .')
-os.system('git commit -m "update"')
+os.system('git commit -m "repository list update"')
 os.system('git push')
