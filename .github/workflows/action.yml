@@ -25,6 +25,12 @@ jobs:
       - name: Install Requests
         run: |
           pip install requests
+      - name: Setting Up GitPush
+        run: |
+          git config user.email "yoboy907@gmail.com"
+          git config user.name "Sabyasachi Seal"
+        env:
+          key: ${{ secrets.key }}
       - name: Update Repolist
         run: |
           python repolist.py
