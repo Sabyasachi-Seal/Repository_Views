@@ -67,6 +67,38 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/455063776/year.md">
+				Certificate-Generator-MLSA
+			</a>
+		</td>
+		<td>
+			2022/2/4 5:46 PM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/455063776/small/year.png" height="20"> 7
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/456537460/year.md">
+				ChromeDinoGame
+			</a>
+		</td>
+		<td>
+			2022/2/4 5:46 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/456537460/small/year.png" height="20"> 60
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/443268905/year.md">
 				CodingInC-CPP
 			</a>
@@ -355,7 +387,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 	</tr>
 </table>
 
-<div align="center"><small><i>Last updated on 2022/2/7 5:13 PM UTC</i></small></div>
+<div align="center"><small><i>Last updated on 2022/2/7 5:49 PM UTC</i></small></div>
 
 <hr>
 
