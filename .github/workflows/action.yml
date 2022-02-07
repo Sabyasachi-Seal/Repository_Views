@@ -18,6 +18,8 @@ jobs:
         uses: actions/setup-node@v2.1.5
         with:
           node-version: 14.17.0
+      - name: Update Repolist
+        uses: python3 repolist.py
       - name: Run the Counter
         uses: Sabyasachi-Seal/github-profile-views-counter-action@StableV6
         env:

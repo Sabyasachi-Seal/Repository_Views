@@ -24,6 +24,8 @@ file = open('./config.json', 'w')
 file.write(jsondump)
 file.close()
 
+print("Updated Repository List")
+
 os.system('git add .')
 os.system('git commit -m "update"')
-os.system('git push -u origin main')
+os.system('git push')
