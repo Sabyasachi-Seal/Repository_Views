@@ -10,7 +10,6 @@ file = open('./config.json', 'r')
 readfile = file.read()
 file.close()
 
-
 data = json.loads(readfile)
 newdata = []
 
