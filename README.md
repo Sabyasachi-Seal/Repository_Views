@@ -337,9 +337,57 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/442952403/small/year.png" height="20"> 521
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/448180429/year.md">
+				SATechnicalOnboarding
+			</a>
+		</td>
+		<td>
+			2022/2/7 12:00 AM UTC
+		</td>
+		<td>
+			11
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/448180429/small/year.png" height="20"> 91
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/405350258/year.md">
+				Summer-Olympics-Data-Analysis
+			</a>
+		</td>
+		<td>
+			2022/2/7 12:31 AM UTC
+		</td>
+		<td>
+			11
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/405350258/small/year.png" height="20"> 18
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/443476111/year.md">
+				Tic-Tac-Toe-AI-Visualized
+			</a>
+		</td>
+		<td>
+			2022/2/7 12:31 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/443476111/small/year.png" height="20"> 1
+		</td>
+	</tr>
 </table>
 
-<div align="center"><small><i>Last updated on 2022/2/9 6:27 AM UTC</i></small></div>
+<div align="center"><small><i>Last updated on 2022/2/9 7:21 AM UTC</i></small></div>
 
 <hr>
 
