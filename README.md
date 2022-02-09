@@ -19,22 +19,6 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/445373339/year.md">
-				AmazonPriceDropAlert
-			</a>
-		</td>
-		<td>
-			2022/2/7 12:28 AM UTC
-		</td>
-		<td>
-			6
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/445373339/small/year.png" height="20"> 10
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/444277983/year.md">
 				AnalogClock
 			</a>
@@ -51,22 +35,6 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/403671500/year.md">
-				Attendance-Tracker
-			</a>
-		</td>
-		<td>
-			2022/2/7 12:29 AM UTC
-		</td>
-		<td>
-			13
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/403671500/small/year.png" height="20"> 55
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/455063776/year.md">
 				Certificate-Generator-MLSA
 			</a>
@@ -79,38 +47,6 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/455063776/small/year.png" height="20"> 8
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/456537460/year.md">
-				ChromeDinoGame
-			</a>
-		</td>
-		<td>
-			2022/2/7 12:00 AM UTC
-		</td>
-		<td>
-			2
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/456537460/small/year.png" height="20"> 120
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/443268905/year.md">
-				CodingInC-CPP
-			</a>
-		</td>
-		<td>
-			2022/2/7 12:29 AM UTC
-		</td>
-		<td>
-			4
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/443268905/small/year.png" height="20"> 21
 		</td>
 	</tr>
 	<tr>
@@ -387,7 +323,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 	</tr>
 </table>
 
-<div align="center"><small><i>Last updated on 2022/2/9 7:21 AM UTC</i></small></div>
+<div align="center"><small><i>Last updated on 2022/2/9 8:27 AM UTC</i></small></div>
 
 <hr>
 
