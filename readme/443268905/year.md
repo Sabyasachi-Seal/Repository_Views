@@ -37,7 +37,7 @@
 			<code>3</code>
 		</td>
 		<td>
-			<code>20</code>
+			<code>5</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,7 +164,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/2/11 6:25 AM UTC</i></small>
+<small><i>Last updated on 2022/2/11 7:18 AM UTC</i></small>
 
 ### SVG Badge
 [![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/svg/443268905/badge.svg)](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/443268905/week.md)
