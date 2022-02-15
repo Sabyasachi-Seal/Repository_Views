@@ -67,6 +67,22 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/459608155/year.md">
+				Books
+			</a>
+		</td>
+		<td>
+			2022/2/12 6:16 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/459608155/small/year.png" height="20"> 79
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/455063776/year.md">
 				Certificate-Generator-MLSA
 			</a>
@@ -387,7 +403,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 	</tr>
 </table>
 
-<div align="center"><small><i>Last updated on 2022/2/15 12:26 PM UTC</i></small></div>
+<div align="center"><small><i>Last updated on 2022/2/15 6:20 PM UTC</i></small></div>
 
 <hr>
 
