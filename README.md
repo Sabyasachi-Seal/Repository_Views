@@ -24,7 +24,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2022/2/23 4:22 PM UTC
+			2022/2/24 4:22 PM UTC
 		</td>
 		<td>
 			0
@@ -419,7 +419,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 	</tr>
 </table>
 
-<div align="center"><small><i>Last updated on 2022/2/26 4:26 PM UTC</i></small></div>
+<div align="center"><small><i>Last updated on 2022/2/26 6:20 PM UTC</i></small></div>
 
 <hr>
 
