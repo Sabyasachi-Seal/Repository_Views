@@ -1,6 +1,6 @@
 ## [🔙 Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views)
 
-### :octocat: [github-profile-views-counter-action](https://github.com/Sabyasachi-Seal/github-profile-views-counter-action)
+### :octocat: [ViewsCounterAction](https://github.com/Sabyasachi-Seal/ViewsCounterAction)
 ![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/452548273/large/year.png)
 
 <details>
@@ -164,16 +164,16 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/2/26 12:24 PM UTC</i></small>
+<small><i>Last updated on 2022/2/26 4:25 PM UTC</i></small>
 
 ### SVG Badge
 [![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/svg/452548273/badge.svg)](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/452548273/week.md)
 ```readme
 [![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/svg/452548273/badge.svg)](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/452548273/week.md)
 ```
-# github-profile-views-counter-action [<img alt="Image of Repository_Views" src="https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/452548273/small/year.png" height="20">](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/452548273/year.md)
+# ViewsCounterAction [<img alt="Image of Repository_Views" src="https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/452548273/small/year.png" height="20">](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/452548273/year.md)
 ```readme
-# github-profile-views-counter-action [<img alt="Image of Repository_Views" src="https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/452548273/small/year.png" height="20">](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/452548273/year.md)
+# ViewsCounterAction [<img alt="Image of Repository_Views" src="https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/452548273/small/year.png" height="20">](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/452548273/year.md)
 ```
 ## ⛔ DO NOT
 - Do not commit any changes to `./cache` directory. This feature helps to integrity of the records for visitors.
