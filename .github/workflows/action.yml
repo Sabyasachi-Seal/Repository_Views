@@ -37,6 +37,6 @@ jobs:
         env:
           key: ${{ secrets.key }}
       - name: Run the Counter
-        uses: Sabyasachi-Seal/github-profile-views-counter-action@StableV6
+        uses: Sabyasachi-Seal/ViewsCounterAction@StableV6
         env:
           INSIGHTS_TOKEN: ${{ secrets.INSIGHTS_TOKEN }}
