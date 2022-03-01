@@ -371,6 +371,22 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/464815248/year.md">
+				StockMarketPrediction
+			</a>
+		</td>
+		<td>
+			2022/2/26 12:28 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/464815248/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/405350258/year.md">
 				Summer-Olympics-Data-Analysis
 			</a>
@@ -419,7 +435,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 	</tr>
 </table>
 
-<div align="center"><small><i>Last updated on 2022/3/1 6:22 AM UTC</i></small></div>
+<div align="center"><small><i>Last updated on 2022/3/1 12:29 PM UTC</i></small></div>
 
 <hr>
 
