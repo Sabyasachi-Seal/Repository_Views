@@ -1,7 +1,7 @@
 ## [🔙 Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views)
 
-### :octocat: [Tic-Tac-Toe-AI-Visualized](https://github.com/Sabyasachi-Seal/Tic-Tac-Toe-AI-Visualized)
-![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/443476111/large/year.png)
+### :octocat: [Python-Assistant](https://github.com/Sabyasachi-Seal/Python-Assistant)
+![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/466143730/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2022/3/1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>3</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2022/2/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,16 +164,16 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/3/4 6:21 PM UTC</i></small>
+<small><i>Last updated on 2022/3/4 6:20 PM UTC</i></small>
 
 ### SVG Badge
-[![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/svg/443476111/badge.svg)](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/443476111/week.md)
+[![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/svg/466143730/badge.svg)](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/466143730/week.md)
 ```readme
-[![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/svg/443476111/badge.svg)](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/443476111/week.md)
+[![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/svg/466143730/badge.svg)](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/466143730/week.md)
 ```
-# Tic-Tac-Toe-AI-Visualized [<img alt="Image of Repository_Views" src="https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/443476111/small/year.png" height="20">](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/443476111/year.md)
+# Python-Assistant [<img alt="Image of Repository_Views" src="https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/466143730/small/year.png" height="20">](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/466143730/year.md)
 ```readme
-# Tic-Tac-Toe-AI-Visualized [<img alt="Image of Repository_Views" src="https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/443476111/small/year.png" height="20">](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/443476111/year.md)
+# Python-Assistant [<img alt="Image of Repository_Views" src="https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/466143730/small/year.png" height="20">](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/466143730/year.md)
 ```
 ## ⛔ DO NOT
 - Do not commit any changes to `./cache` directory. This feature helps to integrity of the records for visitors.
