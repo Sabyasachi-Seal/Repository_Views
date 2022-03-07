@@ -243,6 +243,22 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/443469139/year.md">
+				GatsbyCloud_Demo
+			</a>
+		</td>
+		<td>
+			2022/3/5 1:02 AM UTC
+		</td>
+		<td>
+			3
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/443469139/small/year.png" height="20"> 3
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/448198858/year.md">
 				GitHub200
 			</a>
@@ -467,7 +483,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 	</tr>
 </table>
 
-<div align="center"><small><i>Last updated on 2022/3/7 1:04 AM UTC</i></small></div>
+<div align="center"><small><i>Last updated on 2022/3/7 6:23 AM UTC</i></small></div>
 
 <hr>
 
