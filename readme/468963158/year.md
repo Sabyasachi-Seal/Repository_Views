@@ -1,7 +1,7 @@
 ## [🔙 Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views)
 
-### :octocat: [StockMarketPrediction](https://github.com/Sabyasachi-Seal/StockMarketPrediction)
-![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/464815248/large/year.png)
+### :octocat: [Rotten-Scripts](https://github.com/Sabyasachi-Seal/Rotten-Scripts)
+![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/468963158/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2022/3/1</code>
 		</td>
 		<td>
-			<code>13</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>78</code>
+			<code>3</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,16 +164,16 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/3/12 6:22 AM UTC</i></small>
+<small><i>Last updated on 2022/3/12 6:21 AM UTC</i></small>
 
 ### SVG Badge
-[![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/svg/464815248/badge.svg)](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/464815248/week.md)
+[![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/svg/468963158/badge.svg)](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/468963158/week.md)
 ```readme
-[![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/svg/464815248/badge.svg)](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/464815248/week.md)
+[![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/svg/468963158/badge.svg)](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/468963158/week.md)
 ```
-# StockMarketPrediction [<img alt="Image of Repository_Views" src="https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/464815248/small/year.png" height="20">](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/464815248/year.md)
+# Rotten-Scripts [<img alt="Image of Repository_Views" src="https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/468963158/small/year.png" height="20">](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/468963158/year.md)
 ```readme
-# StockMarketPrediction [<img alt="Image of Repository_Views" src="https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/464815248/small/year.png" height="20">](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/464815248/year.md)
+# Rotten-Scripts [<img alt="Image of Repository_Views" src="https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/468963158/small/year.png" height="20">](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/468963158/year.md)
 ```
 ## ⛔ DO NOT
 - Do not commit any changes to `./cache` directory. This feature helps to integrity of the records for visitors.
