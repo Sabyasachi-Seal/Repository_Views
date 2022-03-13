@@ -1,7 +1,7 @@
 ## [🔙 Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views)
 
-### :octocat: [AnalogClock](https://github.com/Sabyasachi-Seal/AnalogClock)
-![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/444277983/large/year.png)
+### :octocat: [SVGTryouts](https://github.com/Sabyasachi-Seal/SVGTryouts)
+![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/469276599/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2022/3/1</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>6</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2022/2/1</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>7</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,16 +164,16 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/3/13 6:21 AM UTC</i></small>
+<small><i>Last updated on 2022/3/13 6:25 AM UTC</i></small>
 
 ### SVG Badge
-[![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/svg/444277983/badge.svg)](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/444277983/week.md)
+[![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/svg/469276599/badge.svg)](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/469276599/week.md)
 ```readme
-[![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/svg/444277983/badge.svg)](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/444277983/week.md)
+[![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/svg/469276599/badge.svg)](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/469276599/week.md)
 ```
-# AnalogClock [<img alt="Image of Repository_Views" src="https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/444277983/small/year.png" height="20">](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/444277983/year.md)
+# SVGTryouts [<img alt="Image of Repository_Views" src="https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/469276599/small/year.png" height="20">](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/469276599/year.md)
 ```readme
-# AnalogClock [<img alt="Image of Repository_Views" src="https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/444277983/small/year.png" height="20">](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/444277983/year.md)
+# SVGTryouts [<img alt="Image of Repository_Views" src="https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/469276599/small/year.png" height="20">](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/469276599/year.md)
 ```
 ## ⛔ DO NOT
 - Do not commit any changes to `./cache` directory. This feature helps to integrity of the records for visitors.
