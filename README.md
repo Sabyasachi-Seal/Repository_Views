@@ -163,6 +163,22 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/452968149/year.md">
+				CodingInPython
+			</a>
+		</td>
+		<td>
+			2022/3/13 12:59 AM UTC
+		</td>
+		<td>
+			5
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/452968149/small/year.png" height="20"> 37
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/429010160/year.md">
 				commclassroomOP
 			</a>
@@ -483,7 +499,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 	</tr>
 </table>
 
-<div align="center"><small><i>Last updated on 2022/3/15 12:30 PM UTC</i></small></div>
+<div align="center"><small><i>Last updated on 2022/3/15 6:23 PM UTC</i></small></div>
 
 <hr>
 
