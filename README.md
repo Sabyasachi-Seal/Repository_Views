@@ -67,6 +67,22 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/403671500/year.md">
+				Attendance-Tracker
+			</a>
+		</td>
+		<td>
+			2022/3/13 12:00 AM UTC
+		</td>
+		<td>
+			20
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/403671500/small/year.png" height="20"> 64
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/459608155/year.md">
 				Books
 			</a>
@@ -483,7 +499,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 	</tr>
 </table>
 
-<div align="center"><small><i>Last updated on 2022/3/15 1:07 AM UTC</i></small></div>
+<div align="center"><small><i>Last updated on 2022/3/15 6:23 AM UTC</i></small></div>
 
 <hr>
 
