@@ -115,6 +115,22 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/471629999/year.md">
+				ChessTournament
+			</a>
+		</td>
+		<td>
+			2022/3/16 12:30 PM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/471629999/small/year.png" height="20"> 25
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/456537460/year.md">
 				ChromeDinoGame
 			</a>
@@ -481,25 +497,9 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/469276599/small/year.png" height="20"> 27
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/443476111/year.md">
-				Tic-Tac-Toe-AI-Visualized
-			</a>
-		</td>
-		<td>
-			2022/3/17 1:05 AM UTC
-		</td>
-		<td>
-			1
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/443476111/small/year.png" height="20"> 1
-		</td>
-	</tr>
 </table>
 
-<div align="center"><small><i>Last updated on 2022/3/19 6:22 AM UTC</i></small></div>
+<div align="center"><small><i>Last updated on 2022/3/19 12:34 PM UTC</i></small></div>
 
 <hr>
 
