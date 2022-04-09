@@ -1,6 +1,6 @@
 ## [🔙 Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views)
 
-### :octocat: [My-Website](https://github.com/Sabyasachi-Seal/My-Website)
+### :octocat: [sabyasachi-seal.github.io](https://github.com/Sabyasachi-Seal/sabyasachi-seal.github.io)
 ![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/424637296/large/year.png)
 
 <details>
@@ -23,10 +23,10 @@
 			<code>2022/4/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>4</code>
 		</td>
 		<td>
-			<code>28</code>
+			<code>38</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,16 +164,16 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/4/9 1:25 AM UTC</i></small>
+<small><i>Last updated on 2022/4/9 12:34 PM UTC</i></small>
 
 ### SVG Badge
 [![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/svg/424637296/badge.svg)](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/424637296/week.md)
 ```readme
 [![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/svg/424637296/badge.svg)](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/424637296/week.md)
 ```
-# My-Website [<img alt="Image of Repository_Views" src="https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/424637296/small/year.png" height="20">](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/424637296/year.md)
+# sabyasachi-seal.github.io [<img alt="Image of Repository_Views" src="https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/424637296/small/year.png" height="20">](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/424637296/year.md)
 ```readme
-# My-Website [<img alt="Image of Repository_Views" src="https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/424637296/small/year.png" height="20">](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/424637296/year.md)
+# sabyasachi-seal.github.io [<img alt="Image of Repository_Views" src="https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/424637296/small/year.png" height="20">](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/424637296/year.md)
 ```
 ## ⛔ DO NOT
 - Do not commit any changes to `./cache` directory. This feature helps to integrity of the records for visitors.
