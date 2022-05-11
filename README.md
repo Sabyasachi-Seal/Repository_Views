@@ -83,6 +83,22 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/490962469/year.md">
+				BigB-E-learn-Websit-e
+			</a>
+		</td>
+		<td>
+			2022/5/8 12:42 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/490962469/small/year.png" height="20"> 14
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/459608155/year.md">
 				Books
 			</a>
@@ -143,6 +159,22 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/456537460/small/year.png" height="20"> 173
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/490984539/year.md">
+				CodingEasy
+			</a>
+		</td>
+		<td>
+			2022/5/8 12:43 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/490984539/small/year.png" height="20"> 8
 		</td>
 	</tr>
 	<tr>
@@ -465,41 +497,9 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/424637296/small/year.png" height="20"> 69
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/448180429/year.md">
-				SATechnicalOnboarding
-			</a>
-		</td>
-		<td>
-			2022/5/9 1:53 AM UTC
-		</td>
-		<td>
-			19
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/448180429/small/year.png" height="20"> 113
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/464815248/year.md">
-				StockMarketPrediction
-			</a>
-		</td>
-		<td>
-			2022/5/9 1:53 AM UTC
-		</td>
-		<td>
-			31
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/464815248/small/year.png" height="20"> 109
-		</td>
-	</tr>
 </table>
 
-<div align="center"><small><i>Last updated on 2022/5/11 1:57 AM UTC</i></small></div>
+<div align="center"><small><i>Last updated on 2022/5/11 12:46 PM UTC</i></small></div>
 
 <hr>
 
