@@ -24,7 +24,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2022/5/15 1:56 AM UTC
+			2022/5/16 1:40 AM UTC
 		</td>
 		<td>
 			4
@@ -40,13 +40,13 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2022/5/15 1:56 AM UTC
+			2022/5/16 12:00 AM UTC
 		</td>
 		<td>
-			72
+			74
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/445373339/small/year.png" height="20"> 175
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/445373339/small/year.png" height="20"> 179
 		</td>
 	</tr>
 	<tr>
@@ -56,7 +56,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2022/5/15 12:00 AM UTC
+			2022/5/16 1:40 AM UTC
 		</td>
 		<td>
 			14
@@ -72,7 +72,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2022/5/15 1:56 AM UTC
+			2022/5/16 1:40 AM UTC
 		</td>
 		<td>
 			41
@@ -88,7 +88,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2022/5/15 1:57 AM UTC
+			2022/5/16 1:40 AM UTC
 		</td>
 		<td>
 			2
@@ -104,7 +104,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2022/5/15 1:57 AM UTC
+			2022/5/16 1:40 AM UTC
 		</td>
 		<td>
 			38
@@ -120,13 +120,13 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2022/5/15 12:00 AM UTC
+			2022/5/16 12:00 AM UTC
 		</td>
 		<td>
-			51
+			52
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/455063776/small/year.png" height="20"> 104
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/455063776/small/year.png" height="20"> 110
 		</td>
 	</tr>
 	<tr>
@@ -136,13 +136,13 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2022/5/15 1:57 AM UTC
+			2022/5/16 12:00 AM UTC
 		</td>
 		<td>
-			9
+			11
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/471629999/small/year.png" height="20"> 74
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/471629999/small/year.png" height="20"> 80
 		</td>
 	</tr>
 	<tr>
@@ -152,7 +152,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2022/5/15 1:57 AM UTC
+			2022/5/16 1:41 AM UTC
 		</td>
 		<td>
 			9
@@ -168,7 +168,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2022/5/15 1:57 AM UTC
+			2022/5/16 1:41 AM UTC
 		</td>
 		<td>
 			3
@@ -184,7 +184,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2022/5/15 1:58 AM UTC
+			2022/5/16 1:41 AM UTC
 		</td>
 		<td>
 			11
@@ -200,7 +200,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2022/5/15 12:00 AM UTC
+			2022/5/16 1:41 AM UTC
 		</td>
 		<td>
 			19
@@ -216,7 +216,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2022/5/15 1:58 AM UTC
+			2022/5/16 1:41 AM UTC
 		</td>
 		<td>
 			12
@@ -232,7 +232,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2022/5/15 1:58 AM UTC
+			2022/5/16 1:41 AM UTC
 		</td>
 		<td>
 			3
@@ -248,7 +248,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2022/5/15 1:58 AM UTC
+			2022/5/16 1:42 AM UTC
 		</td>
 		<td>
 			91
@@ -264,13 +264,13 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2022/5/15 12:00 AM UTC
+			2022/5/16 12:00 AM UTC
 		</td>
 		<td>
-			41
+			42
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/452981112/small/year.png" height="20"> 292
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/452981112/small/year.png" height="20"> 295
 		</td>
 	</tr>
 	<tr>
@@ -280,7 +280,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2022/5/15 1:58 AM UTC
+			2022/5/16 1:42 AM UTC
 		</td>
 		<td>
 			26
@@ -296,7 +296,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2022/5/15 1:59 AM UTC
+			2022/5/16 1:42 AM UTC
 		</td>
 		<td>
 			4
@@ -312,7 +312,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2022/5/15 1:59 AM UTC
+			2022/5/16 1:42 AM UTC
 		</td>
 		<td>
 			9
@@ -328,7 +328,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2022/5/15 1:59 AM UTC
+			2022/5/16 1:42 AM UTC
 		</td>
 		<td>
 			2
@@ -344,13 +344,13 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2022/5/15 1:59 AM UTC
+			2022/5/16 12:00 AM UTC
 		</td>
 		<td>
-			25
+			26
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/402411478/small/year.png" height="20"> 55
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/402411478/small/year.png" height="20"> 56
 		</td>
 	</tr>
 	<tr>
@@ -360,7 +360,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2022/5/15 1:59 AM UTC
+			2022/5/16 1:42 AM UTC
 		</td>
 		<td>
 			4
@@ -376,7 +376,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2022/5/15 1:59 AM UTC
+			2022/5/16 1:43 AM UTC
 		</td>
 		<td>
 			2
@@ -392,13 +392,13 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2022/5/15 12:00 AM UTC
+			2022/5/16 12:00 AM UTC
 		</td>
 		<td>
-			15
+			17
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/488248618/small/year.png" height="20"> 79
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/488248618/small/year.png" height="20"> 81
 		</td>
 	</tr>
 	<tr>
@@ -408,7 +408,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2022/5/15 2:00 AM UTC
+			2022/5/16 1:43 AM UTC
 		</td>
 		<td>
 			13
@@ -424,7 +424,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2022/5/15 2:00 AM UTC
+			2022/5/16 1:43 AM UTC
 		</td>
 		<td>
 			9
@@ -440,7 +440,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2022/5/15 2:00 AM UTC
+			2022/5/16 1:43 AM UTC
 		</td>
 		<td>
 			1
@@ -456,7 +456,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2022/5/15 2:00 AM UTC
+			2022/5/16 1:43 AM UTC
 		</td>
 		<td>
 			2
@@ -472,7 +472,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2022/5/15 2:00 AM UTC
+			2022/5/16 1:43 AM UTC
 		</td>
 		<td>
 			8
@@ -488,7 +488,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2022/5/15 12:00 AM UTC
+			2022/5/16 1:44 AM UTC
 		</td>
 		<td>
 			45
@@ -499,7 +499,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 	</tr>
 </table>
 
-<div align="center"><small><i>Last updated on 2022/5/17 12:47 PM UTC</i></small></div>
+<div align="center"><small><i>Last updated on 2022/5/18 1:41 AM UTC</i></small></div>
 
 <hr>
 
