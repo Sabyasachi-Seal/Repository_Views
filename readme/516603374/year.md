@@ -1,7 +1,7 @@
 ## [🔙 Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views)
 
-### :octocat: [commclassroomOP](https://github.com/Sabyasachi-Seal/commclassroomOP)
-![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/429010160/large/year.png)
+### :octocat: [Java-Books](https://github.com/Sabyasachi-Seal/Java-Books)
+![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/516603374/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -56,10 +56,10 @@
 			<code>2022/4/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -78,10 +78,10 @@
 			<code>2022/2/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -89,10 +89,10 @@
 			<code>2022/1/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,16 +164,16 @@
 </table>
 
 </details>
-<small><i>Last updated on 2022/7/22 12:41 PM UTC</i></small>
+<small><i>Last updated on 2022/7/22 12:42 PM UTC</i></small>
 
 ### SVG Badge
-[![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/svg/429010160/badge.svg)](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/429010160/week.md)
+[![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/svg/516603374/badge.svg)](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/516603374/week.md)
 ```readme
-[![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/svg/429010160/badge.svg)](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/429010160/week.md)
+[![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/svg/516603374/badge.svg)](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/516603374/week.md)
 ```
-# commclassroomOP [<img alt="Image of Repository_Views" src="https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/429010160/small/year.png" height="20">](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/429010160/year.md)
+# Java-Books [<img alt="Image of Repository_Views" src="https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/516603374/small/year.png" height="20">](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/516603374/year.md)
 ```readme
-# commclassroomOP [<img alt="Image of Repository_Views" src="https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/429010160/small/year.png" height="20">](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/429010160/year.md)
+# Java-Books [<img alt="Image of Repository_Views" src="https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/graph/516603374/small/year.png" height="20">](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/516603374/year.md)
 ```
 ## ⛔ DO NOT
 - Do not commit any changes to `./cache` directory. This feature helps to integrity of the records for visitors.

@@ -339,6 +339,22 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/516603374/year.md">
+				Java-Books
+			</a>
+		</td>
+		<td>
+			2022/7/19 12:42 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/516603374/small/year.png" height="20"> 1
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/402411478/year.md">
 				JSON_IMS
 			</a>
@@ -419,6 +435,22 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/516662631/year.md">
+				Port-IPScanner
+			</a>
+		</td>
+		<td>
+			2022/7/19 12:43 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/516662631/small/year.png" height="20"> 4
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/465563965/year.md">
 				Project-Guidance
 			</a>
@@ -465,41 +497,9 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/443359438/small/year.png" height="20"> 1
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/491588725/year.md">
-				QuickLearn
-			</a>
-		</td>
-		<td>
-			2022/7/20 2:03 AM UTC
-		</td>
-		<td>
-			7
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/491588725/small/year.png" height="20"> 21
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/443374992/year.md">
-				Random-Password-Generator
-			</a>
-		</td>
-		<td>
-			2022/7/20 2:03 AM UTC
-		</td>
-		<td>
-			13
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/443374992/small/year.png" height="20"> 30
-		</td>
-	</tr>
 </table>
 
-<div align="center"><small><i>Last updated on 2022/7/22 2:07 AM UTC</i></small></div>
+<div align="center"><small><i>Last updated on 2022/7/22 12:43 PM UTC</i></small></div>
 
 <hr>
 
