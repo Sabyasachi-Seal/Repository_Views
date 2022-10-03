@@ -99,6 +99,22 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/544900522/year.md">
+				Awesome-Python-Projects
+			</a>
+		</td>
+		<td>
+			2022/9/30 12:50 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/544900522/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/490962469/year.md">
 				BigB-E-learn-Websit-e
 			</a>
@@ -259,6 +275,22 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/544837574/year.md">
+				cs-study-cases
+			</a>
+		</td>
+		<td>
+			2022/9/30 12:52 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/544837574/small/year.png" height="20"> 1
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/442779945/year.md">
 				DiabetesPredictor
 			</a>
@@ -287,6 +319,22 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/452981112/small/year.png" height="20"> 488
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/544878113/year.md">
+				Durmello-HF22
+			</a>
+		</td>
+		<td>
+			2022/9/30 12:53 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/544878113/small/year.png" height="20"> 2
 		</td>
 	</tr>
 	<tr>
@@ -355,6 +403,38 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/544856062/year.md">
+				Hacktoberfest2022
+			</a>
+		</td>
+		<td>
+			2022/9/30 12:53 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/544856062/small/year.png" height="20"> 2
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/544885637/year.md">
+				IncrediblePro-HF22
+			</a>
+		</td>
+		<td>
+			2022/9/30 12:53 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/544885637/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/492134539/year.md">
 				IsADev
 			</a>
@@ -417,89 +497,9 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/465390875/small/year.png" height="20"> 21
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/492136726/year.md">
-				LeetCodeOP
-			</a>
-		</td>
-		<td>
-			2022/10/1 2:38 AM UTC
-		</td>
-		<td>
-			2
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/492136726/small/year.png" height="20"> 8
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/488248618/year.md">
-				LGMVIP-DataScience
-			</a>
-		</td>
-		<td>
-			2022/10/1 2:38 AM UTC
-		</td>
-		<td>
-			54
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/488248618/small/year.png" height="20"> 215
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/512147715/year.md">
-				MLSA-ResumeBuidling
-			</a>
-		</td>
-		<td>
-			2022/10/1 2:38 AM UTC
-		</td>
-		<td>
-			9
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/512147715/small/year.png" height="20"> 62
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/516662631/year.md">
-				Port-IPScanner
-			</a>
-		</td>
-		<td>
-			2022/10/1 2:39 AM UTC
-		</td>
-		<td>
-			8
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/516662631/small/year.png" height="20"> 20
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/465563965/year.md">
-				Project-Guidance
-			</a>
-		</td>
-		<td>
-			2022/10/1 2:39 AM UTC
-		</td>
-		<td>
-			15
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/465563965/small/year.png" height="20"> 94
-		</td>
-	</tr>
 </table>
 
-<div align="center"><small><i>Last updated on 2022/10/3 2:02 AM UTC</i></small></div>
+<div align="center"><small><i>Last updated on 2022/10/3 12:54 PM UTC</i></small></div>
 
 <hr>
 
