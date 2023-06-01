@@ -150,21 +150,10 @@
 			<code>79</code>
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<code>2022/5/1</code>
-		</td>
-		<td>
-			<code>30</code>
-		</td>
-		<td>
-			<code>125</code>
-		</td>
-	</tr>
 </table>
 
 </details>
-<small><i>Last updated on 2023/5/31 1:25 AM UTC</i></small>
+<small><i>Last updated on 2023/6/1 1:52 AM UTC</i></small>
 
 ### SVG Badge
 [![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/svg/452981112/badge.svg)](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/452981112/week.md)
