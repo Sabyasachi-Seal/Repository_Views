@@ -24,7 +24,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2023/8/4 1:12 AM UTC
+			2023/8/5 1:08 AM UTC
 		</td>
 		<td>
 			10
@@ -35,18 +35,34 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/675384607/year.md">
+				AIML-Training-Assignments
+			</a>
+		</td>
+		<td>
+			2023/8/4 1:11 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/675384607/small/year.png" height="20"> 3
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/445373339/year.md">
 				AmazonPriceDropAlert
 			</a>
 		</td>
 		<td>
-			2023/8/4 1:12 AM UTC
+			2023/8/5 12:00 AM UTC
 		</td>
 		<td>
-			586
+			588
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/445373339/small/year.png" height="20"> 1305
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/445373339/small/year.png" height="20"> 1333
 		</td>
 	</tr>
 	<tr>
@@ -56,13 +72,13 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2023/8/4 12:00 AM UTC
+			2023/8/5 12:00 AM UTC
 		</td>
 		<td>
-			132
+			133
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/444277983/small/year.png" height="20"> 344
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/444277983/small/year.png" height="20"> 347
 		</td>
 	</tr>
 	<tr>
@@ -72,7 +88,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2023/8/4 1:12 AM UTC
+			2023/8/5 1:09 AM UTC
 		</td>
 		<td>
 			264
@@ -88,7 +104,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2023/8/4 1:12 AM UTC
+			2023/8/5 1:09 AM UTC
 		</td>
 		<td>
 			69
@@ -104,13 +120,13 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2023/8/4 12:00 AM UTC
+			2023/8/5 12:00 AM UTC
 		</td>
 		<td>
-			521
+			532
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/455063776/small/year.png" height="20"> 1422
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/455063776/small/year.png" height="20"> 1459
 		</td>
 	</tr>
 	<tr>
@@ -120,7 +136,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2023/8/4 1:13 AM UTC
+			2023/8/5 1:09 AM UTC
 		</td>
 		<td>
 			204
@@ -136,13 +152,13 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2023/8/4 1:13 AM UTC
+			2023/8/5 12:00 AM UTC
 		</td>
 		<td>
-			48
+			49
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/456537460/small/year.png" height="20"> 366
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/456537460/small/year.png" height="20"> 374
 		</td>
 	</tr>
 	<tr>
@@ -152,7 +168,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2023/8/4 1:13 AM UTC
+			2023/8/5 1:09 AM UTC
 		</td>
 		<td>
 			7
@@ -168,7 +184,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2023/8/4 1:13 AM UTC
+			2023/8/5 1:10 AM UTC
 		</td>
 		<td>
 			22
@@ -184,7 +200,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2023/8/4 1:13 AM UTC
+			2023/8/5 1:10 AM UTC
 		</td>
 		<td>
 			83
@@ -200,7 +216,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2023/8/4 1:14 AM UTC
+			2023/8/5 1:10 AM UTC
 		</td>
 		<td>
 			5
@@ -216,7 +232,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2023/8/4 12:00 AM UTC
+			2023/8/5 1:10 AM UTC
 		</td>
 		<td>
 			48
@@ -232,7 +248,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2023/8/4 1:14 AM UTC
+			2023/8/5 1:10 AM UTC
 		</td>
 		<td>
 			5
@@ -248,7 +264,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2023/8/4 1:14 AM UTC
+			2023/8/5 1:10 AM UTC
 		</td>
 		<td>
 			15
@@ -264,7 +280,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2023/8/4 1:14 AM UTC
+			2023/8/5 1:10 AM UTC
 		</td>
 		<td>
 			182
@@ -280,7 +296,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2023/8/4 1:14 AM UTC
+			2023/8/5 1:11 AM UTC
 		</td>
 		<td>
 			5
@@ -296,7 +312,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2023/8/4 1:15 AM UTC
+			2023/8/5 1:11 AM UTC
 		</td>
 		<td>
 			15
@@ -312,7 +328,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2023/8/4 1:15 AM UTC
+			2023/8/5 1:11 AM UTC
 		</td>
 		<td>
 			66
@@ -328,7 +344,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2023/8/4 1:15 AM UTC
+			2023/8/5 1:11 AM UTC
 		</td>
 		<td>
 			182
@@ -344,7 +360,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2023/8/4 1:15 AM UTC
+			2023/8/5 1:11 AM UTC
 		</td>
 		<td>
 			104
@@ -360,7 +376,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2023/8/4 1:15 AM UTC
+			2023/8/5 1:11 AM UTC
 		</td>
 		<td>
 			8
@@ -376,7 +392,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2023/8/4 1:16 AM UTC
+			2023/8/5 1:11 AM UTC
 		</td>
 		<td>
 			8
@@ -392,7 +408,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2023/8/4 1:16 AM UTC
+			2023/8/5 1:12 AM UTC
 		</td>
 		<td>
 			170
@@ -408,7 +424,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2023/8/4 1:16 AM UTC
+			2023/8/5 1:12 AM UTC
 		</td>
 		<td>
 			4
@@ -424,13 +440,13 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2023/8/4 1:16 AM UTC
+			2023/8/5 12:00 AM UTC
 		</td>
 		<td>
-			228
+			229
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/589708760/small/year.png" height="20"> 649
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/589708760/small/year.png" height="20"> 650
 		</td>
 	</tr>
 	<tr>
@@ -440,13 +456,13 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2023/8/4 12:00 AM UTC
+			2023/8/5 12:00 AM UTC
 		</td>
 		<td>
-			543
+			546
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/608602141/small/year.png" height="20"> 1499
+			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/608602141/small/year.png" height="20"> 1514
 		</td>
 	</tr>
 	<tr>
@@ -456,7 +472,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2023/8/4 1:16 AM UTC
+			2023/8/5 1:12 AM UTC
 		</td>
 		<td>
 			14
@@ -472,7 +488,7 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			</a>
 		</td>
 		<td>
-			2023/8/4 1:17 AM UTC
+			2023/8/5 1:12 AM UTC
 		</td>
 		<td>
 			7
@@ -481,25 +497,9 @@ It uses `GitHub API` to fetch the insight data of repositories and commits chang
 			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/532809357/small/year.png" height="20"> 7
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/Sabyasachi-Seal/Repository_Views/tree/master/readme/613868307/year.md">
-				GWK-Backend
-			</a>
-		</td>
-		<td>
-			2023/8/4 1:17 AM UTC
-		</td>
-		<td>
-			2
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/Sabyasachi-Seal/Repository_Views/raw/master/graph/613868307/small/year.png" height="20"> 16
-		</td>
-	</tr>
 </table>
 
-<div align="center"><small><i>Last updated on 2023/8/6 1:09 AM UTC</i></small></div>
+<div align="center"><small><i>Last updated on 2023/8/7 1:15 AM UTC</i></small></div>
 
 <hr>
 
