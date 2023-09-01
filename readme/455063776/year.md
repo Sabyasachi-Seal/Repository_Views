@@ -23,10 +23,10 @@
 			<code>2023/8/1</code>
 		</td>
 		<td>
-			<code>62</code>
+			<code>63</code>
 		</td>
 		<td>
-			<code>317</code>
+			<code>318</code>
 		</td>
 	</tr>
 	<tr>
@@ -150,21 +150,10 @@
 			<code>75</code>
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<code>2022/8/1</code>
-		</td>
-		<td>
-			<code>19</code>
-		</td>
-		<td>
-			<code>63</code>
-		</td>
-	</tr>
 </table>
 
 </details>
-<small><i>Last updated on 2023/8/31 1:01 AM UTC</i></small>
+<small><i>Last updated on 2023/9/1 1:04 AM UTC</i></small>
 
 ### SVG Badge
 [![Image of Repository_Views](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/svg/455063776/badge.svg)](https://github.com/Sabyasachi-Seal/Repository_Views/blob/master/readme/455063776/week.md)
